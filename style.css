@@ -1,0 +1,55 @@
+html{
+  background-color: #fff76b;
+}
+
+nav{
+  background-color: #ffc677;
+  margin: 0;
+  padding: 0px;
+}
+nav a{
+  display: block;
+  padding: 14px 16px;
+  color: black;
+  text-decoration:none;
+  float: center;
+}
+nav a:hover{
+  background-color: #ed719e;
+}
+
+h1 { 
+    font-family: Lucida Calligraphy Italic;
+    font-size: 80px
+    color: #000000;
+    text-align: center;
+    background-color: #f1c9fe;
+    font-style: italic;
+    font-weight: 800;
+}
+
+p {
+padding: 25px 50px;
+background-color: pink;
+}
+
+
+  
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
